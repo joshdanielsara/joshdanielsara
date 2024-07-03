@@ -1,4 +1,4 @@
-- 👋 Hi, I’m joshdanielsara
+- 👋 Hi, I’m Josh Daniel
 - 👀 I’m interested in React, Django REST Framework
 - 🌱 I’m currently learning React, Django REST Framework
 - 💞️ I’m looking to collaborate on Projects involving React and Django REST Framework. I'm interested in developing full-stack applications and exploring new technologies.

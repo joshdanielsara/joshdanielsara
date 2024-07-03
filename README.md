@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Josh Daniel<br>👀 I’m interested in React<br>🌱 I’m currently learning React, Django REST Framework<br>💞️ I’m looking to collaborate on Projects involving React and Django REST Framework. I'm interested in developing full-stack applications and exploring new technologies.</p>
+<p align="left">👋 Hi, I’m Josh Daniel<br>👀 I’m interested in React<br>🌱 I’m currently learning React, Django REST Framework<br>💞️ I’m looking to collaborate on Projects involving React and Django REST Framework. I'm interested in developing full-stack applications and exploring new technologies.<br>📫 How to reach me joshdanielsaraa@gmail.com</p>
 
 ###
 
@@ -24,10 +24,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
-
-###
-
-
 
 ###

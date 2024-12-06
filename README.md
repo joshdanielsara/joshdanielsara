@@ -2,7 +2,7 @@
   
 ###
 
-<p align="left">👋 Hi, I’m Josh Daniel<br>👀 I’m interested in Web development<br>🌱 I’m currently learning React, Django REST Framework<br>💞️ I’m looking to collaborate on Projects involving React and Django REST Framework. I'm interested in developing full-stack applications and exploring new technologies.<br>📫 How to reach me <a href="mailto:joshdanielsaraa@gmail.com">joshdanielsaraa@gmail.com</a><br>
+<p align="left">👋 Hi, I’m Josh Daniel Sara<br>👀 I’m interested in Web development<br>🌱 I’m currently learning React, Django REST Framework<br>💞️ I’m looking to collaborate on Projects involving React and Django REST Framework. I'm interested in developing full-stack applications and exploring new technologies.<br>📫 How to reach me <a href="mailto:joshdanielsaraa@gmail.com">joshdanielsaraa@gmail.com</a><br>
 ⚒Currently working on <a href="https://kwentasklaraspmis.pythonanywhere.com/">https://kwentasklaraspmis.pythonanywhere.com</a>
 
 
